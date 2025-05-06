@@ -1,5 +1,4 @@
 # ePoc Editor
 
-This repository is a mirror to host release binaries.
-
-To see the source code go to : https://gitlab.inria.fr/learninglab/epoc/
+> [!IMPORTANT]
+> This is an old repository to host release binaries. The repository has now moved to : https://github.com/ePoc-app/epoc-editor
